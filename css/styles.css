@@ -58,4 +58,14 @@ body {
     margin: 0;
     color: var(--bodyTextColor);
 }
+#cs-navigation .cs-container {
+display: flex;
+align-items: center; 
+justify-content: space-between; 
+}
+    
+#cs-navigation .cs-nav {
+flex-grow: 1; 
+}
+        
                             
